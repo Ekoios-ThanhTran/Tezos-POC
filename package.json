@@ -1,0 +1,16 @@
+{
+  "name": "poc",
+  "version": "1.0.0",
+  "description": "```bash ~/smartpy-cli/SmartPy.sh test python/tests/collaborationContract_test.py output/tests/collaborationContract --html --purge ```",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@taquito/signer": "^15.0.1",
+    "@taquito/taquito": "^15.0.1",
+    "@taquito/tzip16": "^15.0.1"
+  }
+}
