@@ -1,7 +1,7 @@
 const env = {
     rpc: "https://ghostnet.ecadinfra.com/",
-    fungible: "KT1CWDy7VT2WkSFPU6LfysEPkh1q4zMaTVYd",
-    nft: "KT1JxFFZr6g5XrpkQ2wefA1KeZESo2CXsRte",
+    fungible: "KT1ADwpUxsxTAhFsYwTcpjf3LUa718v31S7y",
+    nft: "KT1XQU5vA5i5qhChPbDzUjKktdNm5mHjV1A7",
     singleAsset: "KT1H4aaNbhjNW7hiSCoBQNaA8hbr9xxxK4iR",
     account1: {
         address: "tz1VZqbrSBTiVcETFTzJj6fqbzEBSsuvHf5Y",

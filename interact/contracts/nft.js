@@ -111,7 +111,7 @@ async function callContract() {
     console.log("TX hash: " + opTransfer.hash);
     await offChainView();
 
-    await approve();
+    await approve(viewRes.TokenList.length);
 
     console.log(`=>>> account1 transfer nft id ${viewRes.TokenList.length} from account2 to account3...`)
     const opTransfer1 = await contract.methods.transfer([
