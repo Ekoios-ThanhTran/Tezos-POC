@@ -11,6 +11,8 @@
   "dependencies": {
     "@taquito/signer": "^15.0.1",
     "@taquito/taquito": "^15.0.1",
-    "@taquito/tzip16": "^15.0.1"
+    "@taquito/tzip16": "^15.0.1",
+    "conseiljs": "^5.2.3",
+    "conseiljs-softsigner": "^5.0.4-1"
   }
 }

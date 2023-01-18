@@ -19,7 +19,7 @@
             "code": [
               { "prim": "DUP" },
               { "prim": "CAR" },
-              { "prim": "GET", "args": [ { "int": "3" } ] },
+              { "prim": "GET", "args": [ { "int": "4" } ] },
               { "prim": "NIL", "args": [ { "prim": "nat" } ] },
               { "prim": "SWAP" },
               { "prim": "PUSH", "args": [ { "prim": "nat" }, { "int": "0" } ] },
@@ -80,8 +80,8 @@
               { "prim": "DUP" },
               { "prim": "CAR" },
               { "prim": "DIG", "args": [ { "int": "2" } ] },
+              { "prim": "GET", "args": [ { "int": "3" } ] },
               { "prim": "CAR" },
-              { "prim": "GET", "args": [ { "int": "4" } ] },
               { "prim": "DIG", "args": [ { "int": "2" } ] },
               { "prim": "CDR" },
               { "prim": "GET" },
